@@ -59,7 +59,7 @@ sarif = {
     "runs": [{
         "tool": {"driver": {
             "name": "dex-gate",
-            "informationUri": "https://github.com/alehatsman/go-quality",
+            "informationUri": "https://github.com/aleh-op/go-quality",
             "rules": list(rules.values()),
         }},
         "results": results,
