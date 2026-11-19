@@ -3,7 +3,7 @@
 Shared Go quality toolchain for the fleet — **one canonical source** for how we
 write Go and for the lint config, static-analysis scripts, and CI gates that
 enforce it across `moongit` and future Go repos. Consumed by
-[provision](https://github.com/alehatsman/provision).
+[provision](https://github.com/aleh-op/provision).
 
 `mooncake` and `dex` were consumers and are archived. What they contributed to
 the shared baseline stays, and the reconciliation notes below still explain why
